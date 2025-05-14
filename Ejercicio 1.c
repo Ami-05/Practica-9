@@ -1,3 +1,5 @@
+//Cruz Apodaca Amiel Merari
+//Apartir de una lista de 5 elemntos esta se tiene que imprimir
 
 #include <stdio.h>
 
