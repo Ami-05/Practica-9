@@ -134,7 +134,7 @@ printf ("\n");
         printf ("6- Potencia\n");
         printf ("0- Salida\n");
     //Leer op//
-    scanf ("%i" , &op);
+    scanf ("%d" , &op);
 }
     //Si op es diferente de 0//
     while (op != 0);
